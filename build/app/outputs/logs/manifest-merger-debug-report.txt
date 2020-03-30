@@ -1,0 +1,537 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [:image_cropper] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:cloud_firestore] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_storage] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/66a6440e54edc33bbf7998bd2b5218eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/a807e01a03caa5a71107b75a5645becf/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/2a350d85dcb0ad80096c66182da70237/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/bf08b558b23d2c7a7cd062429fb71f41/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/9c2c31f71f853cfa059dad7a1d857cf9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/e071e71e8de9507328e75f0b3a066078/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/b4bf352ccf0a2341f2b637cf942ea515/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1cc67b2618a7cc11420d737c9b3e9d60/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/236441a343fea9496a9d3016f285dc1c/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/dd746114bdc47d0d053700a2232d3092/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/7af13af648fed48314bb451e178c3136/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/a0da491777c086e8df76f3964f42478e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/90172390af53bf4ec045ed3a4bfae493/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/28fab9ec2686aebcb93b4eeecc038636/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/7d25a5255d5c14f812020cbd327d2fef/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/9be968f52b75e165b37ec1f1f2334635/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/5d21b4b94c7da65aeee54990e0fac7da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/9d6c82f1f46f43979c6b4b164c15d7a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.yalantis:ucrop:2.2.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.4.aar/db01373d43bd235c4d72235904f236f2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/e8d37c90f5b7e9e4156a42b2be53ec6a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/602dc1a6418f0dd2d6febc4f9782c66e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6ec3de95dc50f8d9f1b0724937094cf0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/a1def0c4f63a6c1624c3fb4b44a08339/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a3b11ba128506fa50d81a989ee7745d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0-rc01] /home/maestro/.gradle/caches/transforms-1/files-1.1/transition-1.2.0-rc01.aar/2d79813d1b8e8c624cd2ea2a8198008b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/2ca043f12ef63a0eaf65201005c89e66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/97a46b9becbe5f90eb4a78cb1417ee59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/398149f4fff78409882a059814b2bb9f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d9c36dd1e066412e7fc3edcd96b0a9b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/fba3d305909f2dcd33c4eee375943042/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/a339182fb27b56748ecdb3a52f8921f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/1a8bfc49d3915d8282e42241b3f0b62d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/439e7f7a7f76456964f86d7a7939b2a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/334979eff1d988929aed37afc8543760/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/627029872c1dfd1db90dfca3803c5d06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/0ebb05e03cbb4678ee33a81230728155/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/b0c90f842fad096f0289d2e78f1e3709/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c95b564a71bc8d78069d99eff812692/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/e28dafe35d181011a1f9f0f122160d11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/c844dac9986bab2d923499299c02dd42/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /home/maestro/.gradle/caches/transforms-1/files-1.1/exifinterface-1.1.0-beta01.aar/9377049c183e37fe2aa77cf1a126b420/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/43044886e0569b6a6327c18c73f1c789/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/2bfe2eed6aae8b7e6922646183ca1f1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/5c5b2b42d38073e8f3dbdee6ac2663d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3bc380c12afe50718da28bd50d835054/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/196c2a77318cd6562f61dd3aec27e610/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/fc11149262941119660fe97fa2988208/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/175df0e6fa87e01a1173517797223c65/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/aa9d0049a2302fae24d8d5d82ad530fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/8152732c0210d1cd5cb065a2356b4b42/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/0146a1e3e5da3e8c71b764d6d4d7d02e/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:9:5-37:19
+MERGED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/bf08b558b23d2c7a7cd062429fb71f41/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/bf08b558b23d2c7a7cd062429fb71f41/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/9c2c31f71f853cfa059dad7a1d857cf9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/9c2c31f71f853cfa059dad7a1d857cf9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/e071e71e8de9507328e75f0b3a066078/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/e071e71e8de9507328e75f0b3a066078/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/b4bf352ccf0a2341f2b637cf942ea515/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/b4bf352ccf0a2341f2b637cf942ea515/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1cc67b2618a7cc11420d737c9b3e9d60/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1cc67b2618a7cc11420d737c9b3e9d60/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/236441a343fea9496a9d3016f285dc1c/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/236441a343fea9496a9d3016f285dc1c/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/dd746114bdc47d0d053700a2232d3092/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/dd746114bdc47d0d053700a2232d3092/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/a0da491777c086e8df76f3964f42478e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/a0da491777c086e8df76f3964f42478e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/90172390af53bf4ec045ed3a4bfae493/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/90172390af53bf4ec045ed3a4bfae493/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/28fab9ec2686aebcb93b4eeecc038636/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/28fab9ec2686aebcb93b4eeecc038636/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/7d25a5255d5c14f812020cbd327d2fef/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/7d25a5255d5c14f812020cbd327d2fef/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c95b564a71bc8d78069d99eff812692/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c95b564a71bc8d78069d99eff812692/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/175df0e6fa87e01a1173517797223c65/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/175df0e6fa87e01a1173517797223c65/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/0146a1e3e5da3e8c71b764d6d4d7d02e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/0146a1e3e5da3e8c71b764d6d4d7d02e/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c95b564a71bc8d78069d99eff812692/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#br.com.ecoponto.operador.MainActivity
+ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:33:9-36:71
+	android:screenOrientation
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml:34:13-60
+uses-sdk
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml
+MERGED from [:image_cropper] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/66a6440e54edc33bbf7998bd2b5218eb/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/66a6440e54edc33bbf7998bd2b5218eb/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/a807e01a03caa5a71107b75a5645becf/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/a807e01a03caa5a71107b75a5645becf/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/2a350d85dcb0ad80096c66182da70237/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/2a350d85dcb0ad80096c66182da70237/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/bf08b558b23d2c7a7cd062429fb71f41/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/bf08b558b23d2c7a7cd062429fb71f41/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/9c2c31f71f853cfa059dad7a1d857cf9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/9c2c31f71f853cfa059dad7a1d857cf9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/e071e71e8de9507328e75f0b3a066078/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/e071e71e8de9507328e75f0b3a066078/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/b4bf352ccf0a2341f2b637cf942ea515/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/b4bf352ccf0a2341f2b637cf942ea515/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1cc67b2618a7cc11420d737c9b3e9d60/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1cc67b2618a7cc11420d737c9b3e9d60/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/236441a343fea9496a9d3016f285dc1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/236441a343fea9496a9d3016f285dc1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/dd746114bdc47d0d053700a2232d3092/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/dd746114bdc47d0d053700a2232d3092/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/7af13af648fed48314bb451e178c3136/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/7af13af648fed48314bb451e178c3136/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/a0da491777c086e8df76f3964f42478e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/a0da491777c086e8df76f3964f42478e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/90172390af53bf4ec045ed3a4bfae493/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/90172390af53bf4ec045ed3a4bfae493/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/28fab9ec2686aebcb93b4eeecc038636/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/28fab9ec2686aebcb93b4eeecc038636/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/7d25a5255d5c14f812020cbd327d2fef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/7d25a5255d5c14f812020cbd327d2fef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/9be968f52b75e165b37ec1f1f2334635/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/9be968f52b75e165b37ec1f1f2334635/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/5d21b4b94c7da65aeee54990e0fac7da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/5d21b4b94c7da65aeee54990e0fac7da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/9d6c82f1f46f43979c6b4b164c15d7a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/9d6c82f1f46f43979c6b4b164c15d7a3/AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.4.aar/db01373d43bd235c4d72235904f236f2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.4.aar/db01373d43bd235c4d72235904f236f2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/e8d37c90f5b7e9e4156a42b2be53ec6a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/e8d37c90f5b7e9e4156a42b2be53ec6a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/602dc1a6418f0dd2d6febc4f9782c66e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/602dc1a6418f0dd2d6febc4f9782c66e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6ec3de95dc50f8d9f1b0724937094cf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6ec3de95dc50f8d9f1b0724937094cf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/a1def0c4f63a6c1624c3fb4b44a08339/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/a1def0c4f63a6c1624c3fb4b44a08339/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a3b11ba128506fa50d81a989ee7745d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a3b11ba128506fa50d81a989ee7745d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0-rc01] /home/maestro/.gradle/caches/transforms-1/files-1.1/transition-1.2.0-rc01.aar/2d79813d1b8e8c624cd2ea2a8198008b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] /home/maestro/.gradle/caches/transforms-1/files-1.1/transition-1.2.0-rc01.aar/2d79813d1b8e8c624cd2ea2a8198008b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/2ca043f12ef63a0eaf65201005c89e66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/2ca043f12ef63a0eaf65201005c89e66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/97a46b9becbe5f90eb4a78cb1417ee59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/97a46b9becbe5f90eb4a78cb1417ee59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/398149f4fff78409882a059814b2bb9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/398149f4fff78409882a059814b2bb9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d9c36dd1e066412e7fc3edcd96b0a9b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d9c36dd1e066412e7fc3edcd96b0a9b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/fba3d305909f2dcd33c4eee375943042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/fba3d305909f2dcd33c4eee375943042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/a339182fb27b56748ecdb3a52f8921f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/a339182fb27b56748ecdb3a52f8921f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/1a8bfc49d3915d8282e42241b3f0b62d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/1a8bfc49d3915d8282e42241b3f0b62d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/439e7f7a7f76456964f86d7a7939b2a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/439e7f7a7f76456964f86d7a7939b2a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/334979eff1d988929aed37afc8543760/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/334979eff1d988929aed37afc8543760/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/627029872c1dfd1db90dfca3803c5d06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/627029872c1dfd1db90dfca3803c5d06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/0ebb05e03cbb4678ee33a81230728155/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/0ebb05e03cbb4678ee33a81230728155/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/b0c90f842fad096f0289d2e78f1e3709/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/b0c90f842fad096f0289d2e78f1e3709/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c95b564a71bc8d78069d99eff812692/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c95b564a71bc8d78069d99eff812692/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/e28dafe35d181011a1f9f0f122160d11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/e28dafe35d181011a1f9f0f122160d11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/c844dac9986bab2d923499299c02dd42/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/c844dac9986bab2d923499299c02dd42/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /home/maestro/.gradle/caches/transforms-1/files-1.1/exifinterface-1.1.0-beta01.aar/9377049c183e37fe2aa77cf1a126b420/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /home/maestro/.gradle/caches/transforms-1/files-1.1/exifinterface-1.1.0-beta01.aar/9377049c183e37fe2aa77cf1a126b420/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/43044886e0569b6a6327c18c73f1c789/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/43044886e0569b6a6327c18c73f1c789/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/2bfe2eed6aae8b7e6922646183ca1f1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/2bfe2eed6aae8b7e6922646183ca1f1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/5c5b2b42d38073e8f3dbdee6ac2663d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/5c5b2b42d38073e8f3dbdee6ac2663d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3bc380c12afe50718da28bd50d835054/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3bc380c12afe50718da28bd50d835054/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/196c2a77318cd6562f61dd3aec27e610/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/196c2a77318cd6562f61dd3aec27e610/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/fc11149262941119660fe97fa2988208/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/fc11149262941119660fe97fa2988208/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/175df0e6fa87e01a1173517797223c65/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/175df0e6fa87e01a1173517797223c65/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/aa9d0049a2302fae24d8d5d82ad530fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/aa9d0049a2302fae24d8d5d82ad530fe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/8152732c0210d1cd5cb065a2356b4b42/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/8152732c0210d1cd5cb065a2356b4b42/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/0146a1e3e5da3e8c71b764d6d4d7d02e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/0146a1e3e5da3e8c71b764d6d4d7d02e/AndroidManifest.xml:5:5-44
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/a807e01a03caa5a71107b75a5645becf/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/a807e01a03caa5a71107b75a5645becf/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /home/maestro/Área de Trabalho/Trabalho/E Moeda/gerente_loja/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/a807e01a03caa5a71107b75a5645becf/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/a807e01a03caa5a71107b75a5645becf/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:10:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:14:18-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-17.1.1.aar/e1f48a6211e6209fea68c522c837625e/AndroidManifest.xml:16:17-111
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/6b7daebf985a22d29bae47f131180abf/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/97986e06575b926043d5f93457f361a9/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/39658e3ff9a93ccaf84c1fa07e1f593d/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/bffe593d58cbbc2428c581255da01291/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/707fbbb1a0af77fa84629911b1c8ba39/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1cc67b2618a7cc11420d737c9b3e9d60/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1cc67b2618a7cc11420d737c9b3e9d60/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1cc67b2618a7cc11420d737c9b3e9d60/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1cc67b2618a7cc11420d737c9b3e9d60/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/236441a343fea9496a9d3016f285dc1c/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/236441a343fea9496a9d3016f285dc1c/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/236441a343fea9496a9d3016f285dc1c/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/236441a343fea9496a9d3016f285dc1c/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/236441a343fea9496a9d3016f285dc1c/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/7d25a5255d5c14f812020cbd327d2fef/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/7d25a5255d5c14f812020cbd327d2fef/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/maestro/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/7d25a5255d5c14f812020cbd327d2fef/AndroidManifest.xml:24:13-58

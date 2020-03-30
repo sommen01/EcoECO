@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737544478834",
+    "firebase_url": "https://eco-vantagens-mister.firebaseio.com",
+    "project_id": "eco-vantagens-mister",
+    "storage_bucket": "eco-vantagens-mister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737544478834:android:8c99693e86833c8557a2eb",
+        "android_client_info": {
+          "package_name": "br.com.ecoponto.operador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737544478834-uc5rqumv3auomo6cpntaqh09spnkeimb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzL-UG_IknD6rdZb7pBgb-b05eiknbRhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737544478834-uc5rqumv3auomo6cpntaqh09spnkeimb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
